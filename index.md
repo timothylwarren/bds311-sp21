@@ -10,21 +10,21 @@ title: BDS 311
 |        |                |         |            |
 | Week 2 <br /> 04/06, 04/08    | Analyzing Tabular Data with Pandas  |                                       | Homework 2 <br/> Due Tue 04/13 |
 |     |    |     |      |
-| Week 3 <br /> 04/13, 04/15>    | Visualizing Biological Data |                                                   | Homework 3 <br/> Due Tue 04/20|
+| Week 3 <br /> 04/13, 04/15    | Visualizing Biological Data |                                                   | Homework 3 <br/> Due Tue 04/20|
 |     |    |     |      |
-| Week 4 <br /> 04/20, 04/22>    | Random processes: Description and simulation  |                                                   | Homework 4 <br/> Due Tue 04/27|
+| Week 4 <br /> 04/20, 04/22    | Random processes: Description and simulation  |                                                   | Homework 4 <br/> Due Tue 04/27|
 |     |    |     |      |
-| Week 5 <br /> 04/27, 04/29>    | Resampling methods for hypothesis testing   |                                                   | Homework 5 <br/> Due Tue 05/04|
+| Week 5 <br /> 04/27, 04/29   | Resampling methods for hypothesis testing   |                                                   | Homework 5 <br/> Due Tue 05/04|
 |     |    |     |      |
-| Week 6 <br /> 05/04, 05/06>    | Estimating statistics via the bootstrap   |                                                   | Homework 6 <br/> Due Tue 05/11|
+| Week 6 <br /> 05/04, 05/06    | Estimating statistics via the bootstrap   |                                                   | Homework 6 <br/> Due Tue 05/11|
 |     |    |     |      |
-| Week 7 <br /> 05/11, 05/13>    | Testing and predicting data relationships via regression and correlation  |                                                   | Homework 7<br/> Due Tue 05/18|
+| Week 7 <br /> 05/11, 05/13    | Testing and predicting data relationships via regression and correlation  |                                                   | Homework 7<br/> Due Tue 05/18|
 |     |    |     |      |
-| Week 8 <br /> 05/18, 05/20>    | Version control and reproducibility with Git |                                                   | Homework 7<br/> Due Tue 05/25|
+| Week 8 <br /> 05/18, 05/20    | Version control and reproducibility with Git |                                                   | Homework 7<br/> Due Tue 05/25|
 |     |    |     |      |
-| Week 9 <br /> 05/25, 05/27>    | Analysis of the Covid-19 pandemic: <br /> Preparing for Final Projects|                                                   | Final Project <br/> Week 1|
+| Week 9 <br /> 05/25, 05/27    | Analysis of the Covid-19 pandemic: <br /> Preparing for Final Projects|                                                   | Final Project <br/> Week 1|
 |     |    |     |      |
-| Week 10 <br /> 06/01, 06/03>    | Covid-19 final projects|                                                   | Final Project<br/> Week 2|
+| Week 10 <br /> 06/01, 06/03    | Final projects on Covid-19 data|                                                   | Final Project<br/> Week 2|
 <table>
 <tr>
 <td class="header">Date</td>
