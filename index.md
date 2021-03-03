@@ -6,9 +6,9 @@ title: BDS 311
 
 |Date                                  | Topic                             |  Relevant Reading                     | Assignment                                   |
 |:-----------------------------        |:--------------------------------- |:------------------------------------  |:----------------------                       |
-| Week 1 <br />3/30, 4/02&nbsp; &nbsp; | Course goals and philosophy <br />Python Review, Introduction to Jupyter Notebook&nbsp; &nbsp; &nbsp;| |                   | Asst1 <br/> Due Tue 4/6 &nbsp; &nbsp; &nbsp; |
+| Week 1 <br />03/30, 04/01&nbsp; &nbsp; | Course goals and philosophy <br />Python Review, Introduction to Jupyter Notebook&nbsp; &nbsp; &nbsp;| |                   | Homework 1 <br/> Due Tue 04/06 &nbsp; &nbsp; &nbsp; |
 |                                      |                                   |                                       |                                              |
-| Week 2 <br /> 4/03-4/05              |                                   |                                       |                                              |
+| Week 2 <br /> 04/03,04/05    | Analyzing Tabular Data with Pandas  |                                       | Homework 2, Due Tue 04/13 |
 
 <table>
 <tr>
