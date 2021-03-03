@@ -4,11 +4,11 @@ title: BDS 311
 ---
 
 
-|Date                                  | Topic                             |  Relevant Reading                     | Assignment               |
-|:-----------------------------        |:--------------------------------- |:------------------------------------ |:----------------------   |
-| Week 1 <br /> 3/29-4/02              | Intro to Data Science and Biology |                                      | Asst1 <br/> Due Tue 4/6  |
-|                                      |                                   |                                      |                          |
-| Week 2 <br /> 4/03-4/05              |                                   |                                      |                          |
+|Date                                  | Topic                             |  Relevant Reading                     | Assignment                                   |
+|:-----------------------------        |:--------------------------------- |:------------------------------------  |:----------------------                       |
+| Week 1 <br /> 3/30-4/02&nbsp; &nbsp; | Intro to Data Science and Biology &nbsp; &nbsp; &nbsp;|                   | Asst1 <br/> Due Tue 4/6 &nbsp; &nbsp; &nbsp; |
+|                                      |                                   |                                       |                                              |
+| Week 2 <br /> 4/03-4/05              |                                   |                                       |                                              |
 
 <table>
 <tr>
