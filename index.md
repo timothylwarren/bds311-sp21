@@ -6,12 +6,14 @@ title: BDS 311
 
 |Date                                  | Topic                             |  Relevant Reading                     | Assignment                                   |
 |:-----------------------------        |:--------------------------------- |:------------------------------------  |:----------------------                       |
-| Week 1 <br />03/30, 04/01&nbsp; &nbsp; | Course goals and philosophy <br />Python, Jupyter Notebook&nbsp; &nbsp; &nbsp;| | Homework 1 <br/> Due Tue 04/06 &nbsp; &nbsp; &nbsp; |
+| Week 1 <br />03/30, 04/01&nbsp; &nbsp; | Course Goals and Philosophy <br />Python, Jupyter Notebook&nbsp; &nbsp; &nbsp;| | Homework 1 <br/> Due Tue 04/06 &nbsp; &nbsp; &nbsp; |
 |        |                |         |            |
 | Week 2 <br /> 04/06, 04/08    | Analyzing Tabular Data with Pandas  |                                       | Homework 2 <br/> Due Tue 04/13 |
-|                                      |                                   |                                       |                                              |
-| Week 3 <br / 04/13, 04/15>    | Data Visualization  |                                                   | Homework 3 <br/> Due Tue 04/20|
-
+|     |    |     |      |
+| Week 3 <br / 04/13, 04/15>    | Visualizing Biological Data |                                                   | Homework 3 <br/> Due Tue 04/20|
+|     |    |     |      |
+| Week 4 <br / 04/20, 04/22>    | Random processes: Description and simulation  |                                                   | Homework 4 <br/> Due Tue 04/27|
+|     |    |     |      |
 <table>
 <tr>
 <td class="header">Date</td>
