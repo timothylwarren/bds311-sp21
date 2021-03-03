@@ -4,9 +4,9 @@ title: BDS 311
 ---
 
 
-|Date | Topic | Assignment |
+|Date | Topic | Related Reading | Assignment |
 | --- | ----- | ---------- |
-| Week 1 <br /> March 29-April 2 | Intro to Data Science and Biology | Asst1|
+| Week 1 <br /> March 29-April 2 | Intro to Data Science and Biology | Asst1 <br/> Due Tue 4/6|
 
 <table>
 <tr>
