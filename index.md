@@ -18,7 +18,7 @@ title: BDS 311
 |     |    |     |      |
 | Week 6 <br /> 05/04, 05/06    | Estimating statistics via the bootstrap   |                                                   | Homework 6 <br/> Due Tue 05/11|
 |     |    |     |      |
-| Week 7 <br /> 05/11, 05/13    | Testing and predicting data relationships via regression and correlation  |                                                   | Homework 7<br/> Due Tue 05/18|
+| Week 7 <br /> 05/11, 05/13    | Testing and predicting data relationships: <br />regression and correlation  |                                                   | Homework 7<br/> Due Tue 05/18|
 |     |    |     |      |
 | Week 8 <br /> 05/18, 05/20    | Version control and reproducibility with Git |                                                   | Homework 7<br/> Due Tue 05/25|
 |     |    |     |      |
