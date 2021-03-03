@@ -6,7 +6,7 @@ title: BDS 311
 
 |Date                                  | Topic                             |  Relevant Reading                     | Assignment                                   |
 |:-----------------------------        |:--------------------------------- |:------------------------------------  |:----------------------                       |
-| Week 1 <br /> 3/30-4/02&nbsp; &nbsp; | Intro to Data Science and Biology &nbsp; &nbsp; &nbsp;|                   | Asst1 <br/> Due Tue 4/6 &nbsp; &nbsp; &nbsp; |
+| Week 1 <br />3/30, 4/02&nbsp; &nbsp; | Course goals and philosophy <br />Python Review, Introduction to Jupyter Notebook&nbsp; &nbsp; &nbsp;| |                   | Asst1 <br/> Due Tue 4/6 &nbsp; &nbsp; &nbsp; |
 |                                      |                                   |                                       |                                              |
 | Week 2 <br /> 4/03-4/05              |                                   |                                       |                                              |
 
