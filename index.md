@@ -26,10 +26,15 @@ title: BDS 311
 |     |    |     |      |
 
 | Week 4 <br /> 04/20, 04/22    | Random processes: Description and simulation  |                                                   | Homework 4 <br/> Due Tue 04/27|
+
 |     |    |     |      |
+
 | Week 5 <br /> 04/27, 04/29   | Resampling methods for hypothesis testing   |                                                   | Homework 5 <br/> Due Tue 05/04|
+
 |     |    |     |      |
+
 | Week 6 <br /> 05/04, 05/06    | Estimating statistics via the bootstrap   |                                                   | Homework 6 <br/> Due Tue 05/11|
+
 |     |    |     |      |
 | Week 7 <br /> 05/11, 05/13    | Testing and predicting data relationships: <br />regression and correlation  |                                                   | Homework 7<br/> Due Tue 05/18|
 |     |    |     |      |
