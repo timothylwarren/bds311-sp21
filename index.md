@@ -41,11 +41,18 @@ title: BDS 311
 | Week 7 <br /> 05/11, 05/13    | Testing and predicting data relationships: <br />regression and correlation  |              | Homework 7<br/> Due Tue 05/18|
 
 |     |    |     |      |
+
 | Week 8 <br /> 05/18, 05/20    | Version control and reproducibility with Git |                                                   | Homework 7<br/> Due Tue 05/25|
+
 |     |    |     |      |
+
 | Week 9 <br /> 05/25, 05/27    | Analysis of the Covid-19 pandemic: <br /> Preparing for Final Projects|                                                   | Final Project <br/> Week 1|
+
 |     |    |     |      |
+
 | Week 10 <br /> 06/01, 06/03    | Final projects on Covid-19 data|                                                   | Final Project<br/> Week 2|
+
+
 <table>
 <tr>
 <td class="header">Date</td>
