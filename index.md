@@ -24,6 +24,7 @@ title: BDS 311
 |     |    |     |      |
 | Week 3 <br /> 04/13, 04/15    | Visualizing Biological Data |                                                   | Homework 3 <br/> Due Tue 04/20|
 |     |    |     |      |
+
 | Week 4 <br /> 04/20, 04/22    | Random processes: Description and simulation  |                                                   | Homework 4 <br/> Due Tue 04/27|
 |     |    |     |      |
 | Week 5 <br /> 04/27, 04/29   | Resampling methods for hypothesis testing   |                                                   | Homework 5 <br/> Due Tue 05/04|
