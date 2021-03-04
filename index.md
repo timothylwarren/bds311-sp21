@@ -8,7 +8,7 @@ title: BDS 311
 
 |Date                                  | Topic                             |  Relevant Reading                     | Assignment               |                 
 |:-----------------------------        |:--------------------------------- |:------------------------------------  |:----------------------                       |
-| Week 1 <br />03/30, 04/01&nbsp       | Course Goals and Philosophy       |                                       | Homework 1               |
+| Week 1 <br />03/30, 04/01&nbsp;       | Course Goals and Philosophy <br />Using Python on the Jupyter Notebook&nbsp; &nbsp; &nbsp;      |                                       | Homework 1 <br/> Due Tue 04/06 &nbsp; &nbsp; &nbsp;          |
 
 
 
