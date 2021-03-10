@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BDS 311: Computational Approaches to Biological Data
+title: BDS 311 - Computational Approaches to Biological Data
 ---
 
 This site is under construction.
