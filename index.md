@@ -3,6 +3,7 @@ layout: page
 title: BDS 311
 ---
 
+This site is under construction.
 
 |Date                                  | Topic                             |  Relevant Reading                     | Assignment                                 |
 |:-----------------------------        |:--------------------------------- |:------------------------------------  |:----------------------                      |
