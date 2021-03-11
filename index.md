@@ -3,7 +3,16 @@ layout: page
 title: BDS 311 - Computational Approaches to Biological Data
 ---
 
-This site is under construction.
+### This site is under construction.
+
+### Instructor
+
+### Description
+
+### [Syllabus](./syllabus.md)
+
+
+### Calendar
 
 |Date                                  | Topic                             |  Relevant Reading                     | Assignment                                 |
 |:-----------------------------        |:--------------------------------- |:------------------------------------  |:----------------------                      |
