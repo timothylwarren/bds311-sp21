@@ -5,8 +5,7 @@ title: BDS 311 - Spring 2021
 
 ### This site is under construction.
 
-### Instructor ![](twheadshot_square.jpg?raw=true)
-### Description
+### Instructor ![]<img src="/twheadshot_square.jpg" width="100" height="100" />### Description
 
 ### [Syllabus](./syllabus.md)
 
