@@ -26,7 +26,7 @@ tim.warren AT oregonstate.edu
 ### [Link to Full Syllabus](./syllabus.md)
 
 
-### Calendar  
+### Weekly Calendar  
 
 |Date                                  | Topic                             |  Relevant Reading                     | Assignment                                 |
 |:-----------------------------        |:--------------------------------- |:------------------------------------  |:----------------------                      |
