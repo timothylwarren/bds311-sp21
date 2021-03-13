@@ -10,7 +10,10 @@ title: BDS 311 - Spring 2021
 <img src="/twheadshot_square.jpg" width="100" height="100" align='left'/>  
 Timothy Warren            
 
-tim.warren AT oregonstate.edu  
+tim.warren AT oregonstate.edu            
+
+   
+   
 
 
 
