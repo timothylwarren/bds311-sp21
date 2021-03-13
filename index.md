@@ -4,7 +4,7 @@ title: BDS 311 - Spring 2021
 ---
 
 ### BDS 311: Computational Approaches to Biological Data
- <img src="/covidtrace_color_rev-01.png" width="520" height="360" align='right'/> <div style="text-align: justify"> A new course that focuses on fundamental aspects of data science with specific application to the biological sciences. Through a practical, problem-based approach, students will examine the theory and practice underlying widely used computational methods in biology. They will develop mastery in the analysis and visualization of large data sets using Python, with applications to genomics, ecology, and other areas of biology. They will learn to test hypotheses, infer data set parameters, and make predictions via broadly applicable data science tools. The spring 2021 course will have a special focus on datasets related to the Covid-19 pandemic. </div>
+ <img src="/covidtrace_color_rev-01.png" width="520" height="360" align='right'/> <div style="text-align: justify"> A new course that focuses on fundamental aspects of data science with specific application to the biological sciences. Through a practical, problem-based approach, students will examine the theory and practice underlying widely used computational methods in biology. They will develop mastery in the analysis and visualization of large data sets using Python, with applications to genomics, ecology, and other areas of biology. Students will test hypotheses, infe dataset parameters, and make predictions via broadly applicable data science tools. The spring 2021 course will have a special focus on datasets related to the Covid-19 pandemic. </div>
 ### Instructor
 <img src="/twheadshot_square.jpg" width="75" height="75" align='left'/>      
 
