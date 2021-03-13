@@ -10,9 +10,12 @@ title: BDS 311 - Computational Approaches to Biological Data
 </div>   
 
 ### Instructor
-<img src="/twheadshot_square.jpg" width="75" height="75" align='left'/>      
+<img src="/twheadshot_square.jpg" width="75" height="75" align='right'/>      
 
-Timothy Warren, tim.warren AT oregonstate.edu         
+Timothy Warren  
+tim.warren AT oregonstate.edu         
+
+
   
   
 
