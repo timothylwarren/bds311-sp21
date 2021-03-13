@@ -3,7 +3,8 @@ layout: page
 title: BDS 311 - Spring 2021
 ---
 
-### This site is under construction.
+### BDS 311: Computational Approaches to Biological Data
+This is a new course that focuses on fundamental aspects of data science with specific application to the biological sciences. Students will examine the theory and practice underlying widely used computational methods in biology. They will develop mastery in the analysis and visualization of large data sets using Python, with applications to genomics, ecology, and other areas of biology. They will learn to test hypotheses, infer data set parameters, and make predictions via broadly applicable data science tools. Students will complete weekly homework assignments and a final project. The spring 2021 course will have a special focus on datasets related to the Covid-19 pandemic.
 
 ### Instructor
 Timothy Warren    
@@ -12,7 +13,7 @@ tim.warren AT oregonstate.edu
 
 
 
-### [Syllabus](./syllabus.md)
+### [Full Syllabus](./syllabus.md)
 
 
 ### Calendar  
