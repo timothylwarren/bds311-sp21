@@ -1,5 +1,13 @@
+---
+layout: page
+title: Syllabus
+---
+
+#### Biological Data Sciences 311 - Computational Approaches to Biological Data
+#### Syllabus Spring 2021
 
 
+### Course Information
 
 ### Instructor
 
@@ -7,8 +15,8 @@
 - tim.warren AT oregonstate.edu
 - Meeting times: Tuesday/Thursday 2-3:20
 - Office Hours/Lab: Friday (Time TBD) 
-- <web site tk>
-- <Course canvas site>
+- Course Web site (Weekly calendar) <https://timothylwarren.github.io/bds311/>
+- Canvas site (Problem sets) <https://canvas.oregonstate.edu/courses/1819463>
 
 
 ### Course Description
