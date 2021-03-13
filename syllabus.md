@@ -7,8 +7,7 @@ Spring 2021, Oregon State University
 
 ### Instructor
 
-- Timothy Warren
-- tim.warren AT oregonstate.edu
+Timothy Warren (tim.warren AT oregonstate.edu)
 
 ### Course Information
 
