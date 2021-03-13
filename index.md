@@ -7,7 +7,8 @@ title: BDS 311 - Spring 2021
  <img src="/covidtrace_color_rev-01.png" width="520" height="360" align='right'/> A new course that focuses on fundamental aspects of data science with specific application to the biological sciences. Through a practical, problem-based approach, students will examine the theory and practice underlying widely used computational methods in biology. They will develop mastery in the analysis and visualization of large data sets using Python, with applications to genomics, ecology, and other areas of biology. They will learn to test hypotheses, infer data set parameters, and make predictions via broadly applicable data science tools. The spring 2021 course will have a special focus on datasets related to the Covid-19 pandemic. 
 
 ### Instructor
-<img src="/twheadshot_square.jpg" width="100" height="100" align='right'/>  Timothy Warren    
+<img src="/twheadshot_square.jpg" width="100" height="100" align='left'/>  
+Timothy Warren    
 tim.warren AT oregonstate.edu  
 
 
