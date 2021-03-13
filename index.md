@@ -13,7 +13,7 @@ tim.warren AT oregonstate.edu
 
 
 
-### [Full Syllabus](./syllabus.md)
+### [Link to Full Syllabus](./syllabus.md)
 
 
 ### Calendar  
