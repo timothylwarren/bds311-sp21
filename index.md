@@ -9,9 +9,7 @@ title: BDS 311 - Spring 2021
 ### Instructor
 <img src="/twheadshot_square.jpg" width="75" height="75" align='left'/>      
 
-Timothy Warren               
-
-tim.warren AT oregonstate.edu           
+Timothy Warren, tim.warren AT oregonstate.edu           
 
 
 
