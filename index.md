@@ -1,12 +1,11 @@
 ---
 layout: page
-title: BDS 311 - Computational Approaches to Biological Data
+title: BDS 311 - Spring 2021
 ---
 
 ### This site is under construction.
 
-### Instructor
-
+### Instructor ![](twheadshot_square.jpg?raw=true)
 ### Description
 
 ### [Syllabus](./syllabus.md)
