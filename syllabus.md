@@ -1,8 +1,6 @@
 ---
 layout: page
-title: Syllabus Biological Data Sciences 311  
-Computational Approaches to Biological Data
-Spring 2021, Oregon State University
+title: Syllabus <br> Biological Data Sciences 311 <br> Computational Approaches to Biological Data <br> Spring 2021, Oregon State University
 ---
 
 ### Instructor
