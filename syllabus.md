@@ -83,7 +83,7 @@ I encourage (and will sometimes require you) to talk to others about the homewor
 
 ### Statement Regarding Students with Disabilities
 
-Accommodations for students with disabilities are determined and approved by Disability Access Services (DAS). If you, as a student, believe you are eligible for accommodations but have not obtained approval please contact DAS immediately at 541-737-4098 or at http://ds.oregonstate.edu. DAS notifies students and faculty members of approved academic accommodations and coordinates implementation of those accommodations. While not required, students and faculty members are encouraged to discuss details of the implementation of individual accommodations.
+Accommodations for students with disabilities are determined and approved by Disability Access Services (DAS). If you, as a student, believe you are eligible for accommodations but have not obtained approval please contact DAS immediately at 541-737-4098 or at <http://ds.oregonstate.edu>. DAS notifies students and faculty members of approved academic accommodations and coordinates implementation of those accommodations. While not required, students and faculty members are encouraged to discuss details of the implementation of individual accommodations.
 
 ### Diversity Statement
 
@@ -94,7 +94,7 @@ Oregon State University strives to respect all religious practices. If you have 
 
 ### Resources for Support
 
-These are trying times. If you encounter difficulties and need assistance, it’s important to reach out. Consider discussing the situation with an instructor or academic advisor. Learn about resources that assist with wellness and academic success at <oregonstate.edu/ReachOut>. If you are in immediate crisis, please contact the Crisis Text Line by texting OREGON to 741-741 or call the National Suicide Prevention Lifeline at 1-800-273-TALK (8255).
+These are trying times. If you encounter difficulties and need assistance, it’s important to reach out. Consider discussing the situation with an instructor or academic advisor. Learn about resources that assist with wellness and academic success at [OSU ReachOut]<https://counseling.oregonstate.edu/reach-out-success>. If you are in immediate crisis, please contact the Crisis Text Line by texting OREGON to 741-741 or call the National Suicide Prevention Lifeline at 1-800-273-TALK (8255).
 
 
 ### Opportunities for Student Evaluation
