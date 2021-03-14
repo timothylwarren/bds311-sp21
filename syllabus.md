@@ -47,7 +47,7 @@ At the completion of this course, students will be able to:
 
 
 
-### Topics (Also see [weekly calendar](./index.md)
+### Topics (Also see [weekly calendar])(./index.md)
 
 - Using Python on the Jupyter Notebook
 - Analyzing tabular data with Pandas
@@ -78,7 +78,7 @@ All homework will be submitted via the data hub on course canvas page. Details t
 
 ### Collaboration Policy and Academic Dishonesty
 
-I encourage (and will sometimes require you) to talk to others about the homework. But the work that you submit for the homework and final project must be your individual solution, implemented by you (never directly copied from other students or other sources). Rather than copying someone elses work, please ask for help!
+I encourage (and will sometimes require you) to talk to others about the homework. But the work that you submit for the homework and final project must be your individual solution, implemented by you (never directly copied from other students or other sources). Rather than copying someone else's work, please ask for help!
 
 ### Statement Regarding Students with Disabilities
 
@@ -106,7 +106,7 @@ Additionally, there will be an opportunity for midterm evaluation.
 ### Attribution
 
 
-TKTK
+Some of this course builds upon already established curricula for teaching data science and Python programming. In particular, I have relied on materials developed by the Carpentries <https://carpentries.org/>, a nonprofit foundation where I serve as an instructor. Furthermore, I have consulted and used some materials from the [Data 8: Foundations of Data Science]<http://data8.org/> and [Data 100: Principles and Techniques of Data Science]<https://ds100.org/> at University of California, Berkeley
 
 
 
