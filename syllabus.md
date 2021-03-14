@@ -28,7 +28,7 @@ Calculus or Discrete Math: (MTH 252 or MTH 252H or MTH 228)
 Some prior programming experience (CS 161 or BOT 476)
 
 
-These prerequisites can be waived with instructor permission. We strive to make class accessible and engaging for students with varied backgrounds and interests.
+These prerequisites can be waived with instructor permission. I strive to make the class accessible and engaging for students with varied backgrounds and interests.
 
 
 
