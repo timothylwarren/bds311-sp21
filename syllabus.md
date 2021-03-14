@@ -47,7 +47,7 @@ At the completion of this course, students will be able to:
 
 
 
-### Topics (Also see [weekly calendar])(./index.md)
+### Topics (Also see [weekly calendar](./index.md))
 
 - Using Python on the Jupyter Notebook
 - Analyzing tabular data with Pandas
@@ -106,7 +106,7 @@ Additionally, there will be an opportunity for midterm evaluation.
 ### Attribution
 
 
-Some of this course builds upon already established curricula for teaching data science and Python programming. In particular, I have relied on materials developed by the Carpentries <https://carpentries.org/>, a nonprofit foundation where I serve as an instructor. Furthermore, I have consulted and used some materials from the [Data 8: Foundations of Data Science]<http://data8.org/> and [Data 100: Principles and Techniques of Data Science]<https://ds100.org/> at University of California, Berkeley
+Some of this course builds upon already established curricula for teaching data science and Python programming. In particular, I have relied on materials developed by [The Carpentries](https://carpentries.org/), a nonprofit foundation where I serve as an instructor. Furthermore, I have consulted and used some materials from the [Data 8: Foundations of Data Science](http://data8.org/) and [Data 100: Principles and Techniques of Data Science](https://ds100.org/) at University of California, Berkeley
 
 
 
