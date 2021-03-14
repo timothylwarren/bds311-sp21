@@ -5,7 +5,8 @@ title: Syllabus <br> Biological Data Sciences 311 <br> Computational Approaches 
 
 ### Instructor
 
-Timothy Warren (tim.warren AT oregonstate.edu)
+Timothy Warren  
+tim.warren AT oregonstate.edu
 
 ### Course Information
 
@@ -46,7 +47,7 @@ At the completion of this course, students will be able to:
 
 
 
-### Topics (See week-by-week calendar on course web site)
+### Topics (Also see [weekly calendar](./index.md)
 
 - Using Python on the Jupyter Notebook
 - Analyzing tabular data with Pandas
@@ -92,7 +93,7 @@ Oregon State University strives to respect all religious practices. If you have 
 
 ### Resources for Support
 
-These are trying times. If you encounter difficulties and need assistance, it’s important to reach out. Consider discussing the situation with an instructor or academic advisor. Learn about resources that assist with wellness and academic success at [OSU ReachOut]<https://counseling.oregonstate.edu/reach-out-success>. If you are in immediate crisis, please contact the Crisis Text Line by texting OREGON to 741-741 or call the National Suicide Prevention Lifeline at 1-800-273-TALK (8255).
+These are trying times. If you encounter difficulties and need assistance, it’s important to reach out. Consider discussing the situation with an instructor or academic advisor. Learn about resources that assist with wellness and academic success at <https://counseling.oregonstate.edu/reach-out-success>. If you are in immediate crisis, please contact the Crisis Text Line by texting OREGON to 741-741 or call the National Suicide Prevention Lifeline at 1-800-273-TALK (8255).
 
 
 ### Opportunities for Student Evaluation
