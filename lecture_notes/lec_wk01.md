@@ -9,7 +9,6 @@ title: Week 1 Lectures
 - ## Course Overview and motivation: 
     - ### What is data science? How does it apply to biology?
     - ### Philosophy of the Course 
-    
 - ##Personal Introductions
 - ##Course mechanics 
     -### Web Site
