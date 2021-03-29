@@ -80,7 +80,6 @@ We all should strive to foster a welcoming, supportive environment. This involve
 <ul>
     <li>Using welcoming and inclusive language</li>
     <li>Respecting different viewpoints</li>
-    <li>Using welcoming and inclusive language</li>
     <li>Accepting constructive criticism</li>
     <li>Treating each other with grace and courtesy</li>
     </ul>
