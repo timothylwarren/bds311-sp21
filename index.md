@@ -30,24 +30,24 @@ tim.warren AT oregonstate.edu
 
 |Date                                  | Topic                             |  Relevant Reading                     | Assignment                                 |
 |:-----------------------------        |:--------------------------------- |:------------------------------------  |:----------------------                      |
-| Week 1 <br />03/30, 04/01&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;| Course Goals and Philosophy <br />Python on the Jupyter Notebook &nbsp; &nbsp; &nbsp;| [Unix Shell](https://swcarpentry.github.io/shell-novice/) <br> [Canonical Python Examples](https://nbviewer.jupyter.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Python_101.ipynb) <br> [Intro Python and Pandas](http://swcarpentry.github.io/python-novice-gapminder/) <br> [Concise Pandas Reference](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)<br>[Lecture notes](./lecture_notes/lec_wk01.md)| Homework 1 <br/> Due Tue 04/06 &nbsp; &nbsp; &nbsp; |
+| Week 1 <br />03/30, 04/01&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;| Course Goals and Philosophy <br />Python on the Jupyter Notebook &nbsp; &nbsp; &nbsp;| [Unix Shell](https://swcarpentry.github.io/shell-novice/) <br> [Python Examples](https://nbviewer.jupyter.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Python_101.ipynb) &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; <br> [Intro to Python and Pandas](http://swcarpentry.github.io/python-novice-gapminder/) <br> [Concise Pandas Reference](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)<br>[Lecture notes](./lecture_notes/lec_wk01.md)| HW 1 <br/> Due Tue 04/06 &nbsp; &nbsp; |
 |        |                |         |            |
-| Week 2 <br /> 04/06, 04/08    | Analyzing Tabular Data with Pandas  |                                       | Homework 2 <br/> Due Tue 04/13 |
+| Week 2 <br /> 04/06, 04/08    | Analyzing Tabular Data with Pandas  |                                       | HW 2 <br/> Due Tue 04/13 |
 |     |    |     |      |
-| Week 3 <br /> 04/13, 04/15    | Visualizing Biological Data |                                                   | Homework 3 <br/> Due Tue 04/20|
+| Week 3 <br /> 04/13, 04/15    | Visualizing Biological Data |                                                   | HW 3 <br/> Due Tue 04/20|
 |     |    |     |      |
-| Week 4 <br /> 04/20, 04/22    | Random processes: Description and simulation  |                                                   | Homework 4 <br/> Due Tue 04/27|
+| Week 4 <br /> 04/20, 04/22    | Random processes: Description and simulation  |                                                   | HW 4 <br/> Due Tue 04/27|
 |     |    |     |      |
-|  Week 5 <br /> 04/27, 04/29   | Resampling methods for hypothesis testing   |                                                   | Homework 5 <br/> Due Tue 05/04|
+|  Week 5 <br /> 04/27, 04/29   | Resampling methods for hypothesis testing   |                                                   | HW 5 <br/> Due Tue 05/04|
 |     |    |     |      |
-| Week 6 <br /> 05/04, 05/06    | Estimating data set parameters via the bootstrap   |                                                   | Homework 6 <br/> Due Tue 05/11|
+| Week 6 <br /> 05/04, 05/06    | Estimating data set parameters via the bootstrap   |                                                   | HW 6 <br/> Due Tue 05/11|
 |     |    |     |      |
-| Week 7 <br /> 05/11, 05/13    | Testing and predicting relationships in data: <br />regression and correlation  |              | Homework 7<br/> Due Tue 05/18|
+| Week 7 <br /> 05/11, 05/13    | Testing and predicting relationships in data: <br />regression and correlation  |              | HW 7<br/> Due Tue 05/18|
 |     |    |     |      |
-| Week 8 <br /> 05/18, 05/20    | Version control and reproducibility with Git |                                                   | Homework 8<br/> Due Tue 05/25|
+| Week 8 <br /> 05/18, 05/20    | Version control and reproducibility with Git |                                                   | HW 8<br/> Due Tue 05/25|
 |     |    |     |      |
-| Week 9 <br /> 05/25, 05/27    | Special Topic: Analysis of emerging data from the Covid-19 pandemic|                                                   | Homework 9 <br/> Due Tue 6/01|
+| Week 9 <br /> 05/25, 05/27    | Special Topic: Analysis of emerging data from the Covid-19 pandemic|                                                   | HW 9 <br/> Due Tue 6/01|
 |     |    |     |      |
-| Week 10 <br /> 06/01, 06/03    | Synthesis, Case studies of data science in biology  |                                                   | Final Problem Set<br/> Due Tue 6/08|
+| Week 10 <br /> 06/01, 06/03    | Synthesis, Case studies of data science in biology  |                                                   | Final HW<br/> Due Tue 6/08|
 
 
