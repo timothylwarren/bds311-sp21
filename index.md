@@ -44,10 +44,10 @@ tim.warren AT oregonstate.edu
 |     |    |     |      |
 | Week 7 <br /> 05/11, 05/13    | Testing and predicting relationships in data: <br />regression and correlation  |              | Homework 7<br/> Due Tue 05/18|
 |     |    |     |      |
-| Week 8 <br /> 05/18, 05/20    | Version control and reproducibility with Git |                                                   | Homework 7<br/> Due Tue 05/25|
+| Week 8 <br /> 05/18, 05/20    | Version control and reproducibility with Git |                                                   | Homework 8<br/> Due Tue 05/25|
 |     |    |     |      |
-| Week 9 <br /> 05/25, 05/27    | Analysis of the Covid-19 pandemic|                                                   | Final Project <br/> Week 1|
+| Week 9 <br /> 05/25, 05/27    | Special Topic: Analysis of emerging data from the Covid-19 pandemic|                                                   | Homework 9 <br/> Due Tue 6/01|
 |     |    |     |      |
-| Week 10 <br /> 06/01, 06/03    | Final projects|                                                   | Final Project<br/> Week 2|
+| Week 10 <br /> 06/01, 06/03    | Synthesis, Case Studies of Data Science in Biology  |                                                   | Final Problem Set<br/> Due Tue 6/08|
 
 

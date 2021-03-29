@@ -63,10 +63,8 @@ At the completion of this course, students will be able to:
 
 ### Grading
 
-- 60% Weekly Homework Assignments
-- 20% Final project
-- 10% in-class quizzes
-- 10% effectiveness in group collaboration
+- 75% Weekly problem sets
+- 25% Participation and collaboration
 
 ### Learning Resources
 
@@ -76,7 +74,21 @@ There is no textbook for the class but references for recommended (and sometimes
 
 All homework will be submitted via the data hub on course canvas page. Details to follow. All assignments are due at 11:59 pm on the due date specified on the syllabus. Late homework will not be accepted.
 
-### Collaboration Policy and Academic Dishonesty
+### Course Code of Conduct (Adopted from [Carpentries](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html))
+
+
+We all should strive to make our virtual classroom a welcoming, supportive environment. This involves
+<ul>
+    <li>Using welcoming and inclusive language</li>
+    <li>Respecting different viewpoints</li>
+    <li>Using welcoming and inclusive language</li>
+    <li>Accepting constructive criticism</li>
+    <li>Treating each other with grace and courtesy<li>
+    </ul>
+
+
+
+### Collaboration and Academic Dishonesty
 
 I encourage (and will sometimes require you) to talk to others about the homework. But the work that you submit for the homework and final project must be your individual solution, implemented by you (never directly copied from other students or other sources). Rather than copying someone else's work, please ask for help!
 
