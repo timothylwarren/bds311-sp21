@@ -72,7 +72,7 @@ There is no textbook for the class but references for recommended (and sometimes
 
 ### Homework Submission and Late Policy
 
-All homework will be submitted via the DataScience Hub on Course Canvas Page. Launch the DataScience Hub from [Canvas Modules](https://canvas.oregonstate.edu/courses/1819463/assignments/8250684?module_item_id=20893993). Also review this [reference page](https://canvas.oregonstate.edu/courses/1819463/pages/documentation-on-launching-data-science-hub?module_item_id=20893971) on the DataScience Hub. For most assignments, your submission will be a Jupyter Notebook file saved in the appropriate subdirectory on DataScience Hub. All assignments are due at 11:59 pm on the due date specified on the syllabus. Late homework will not be accepted.
+All homework will be submitted via the DataScience Hub on Course Canvas Page. Launch the DataScience Hub from [Canvas](https://canvas.oregonstate.edu/courses/1819463/assignments/8250684?module_item_id=20893993). Also review this [reference page](https://canvas.oregonstate.edu/courses/1819463/pages/documentation-on-launching-data-science-hub?module_item_id=20893971) on the DataScience Hub. For most assignments, your submission will be a Jupyter Notebook file saved in the appropriate subdirectory on DataScience Hub. All assignments are due at 11:59 pm on the due date specified on the syllabus. Late homework will not be accepted.
 
 ### Course Code of Conduct (Adopted from [Carpentries](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html))
 
