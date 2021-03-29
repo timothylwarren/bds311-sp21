@@ -72,25 +72,24 @@ There is no textbook for the class but references for recommended (and sometimes
 
 ### Homework Submission and Late Policy
 
-All homework will be submitted via the data hub on course canvas page. Details to follow. All assignments are due at 11:59 pm on the due date specified on the syllabus. Late homework will not be accepted.
+All homework will be submitted via the DataScience Hub on Course Canvas Page. Launch the DataScience Hub from [Canvas Modules](https://canvas.oregonstate.edu/courses/1819463/assignments/8250684?module_item_id=20893993). Also review this [reference page](https://canvas.oregonstate.edu/courses/1819463/pages/documentation-on-launching-data-science-hub?module_item_id=20893971) on the DataScience Hub. For most assignments, your submission will be a Jupyter Notebook file saved in the appropriate subdirectory on DataScience Hub. All assignments are due at 11:59 pm on the due date specified on the syllabus. Late homework will not be accepted.
 
 ### Course Code of Conduct (Adopted from [Carpentries](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html))
 
-
-We all should strive to make our virtual classroom a welcoming, supportive environment. This involves
+We all should strive to foster a welcoming, supportive environment. This involves:
 <ul>
     <li>Using welcoming and inclusive language</li>
     <li>Respecting different viewpoints</li>
     <li>Using welcoming and inclusive language</li>
     <li>Accepting constructive criticism</li>
-    <li>Treating each other with grace and courtesy<li>
+    <li>Treating each other with grace and courtesy</li>
     </ul>
 
 
 
 ### Collaboration and Academic Dishonesty
 
-I encourage (and will sometimes require you) to talk to others about the homework. But the work that you submit for the homework and final project must be your individual solution, implemented by you (never directly copied from other students or other sources). Rather than copying someone else's work, please ask for help!
+I encourage (and will sometimes require you) to work with others on homework problems. But the work that you submit for the homework and final project must be your individual solution, implemented by you (never directly copied from other students or other sources). Rather than copying someone else's work, please ask for help!
 
 ### Statement Regarding Students with Disabilities
 
@@ -100,7 +99,6 @@ Accommodations for students with disabilities are determined and approved by Dis
 
 Oregon State University strives to create an affirming climate for all students including underrepresented and marginalized individuals and groups. Diversity encompasses differences in age, color, ethnicity, national origin, gender, physical or mental ability, religion, socioeconomic background, veteran status, sexual orientation, and marginalized groups. We believe diversity is the synergy, connection, acceptance, and mutual learning fostered by the interaction of different human characteristics. 
 Oregon State University strives to respect all religious practices. If you have religious holidays that are in conflict with any of the requirements of this class, please contact the instructor immediately so that we can make alternative arrangements.  
-
 
 
 ### Resources for Support
