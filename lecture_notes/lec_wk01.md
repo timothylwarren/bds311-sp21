@@ -11,9 +11,9 @@ title: Week 1 Lectures
     - ### Philosophy of the Course 
 - ## Personal Introductions
 - ## Course mechanics 
-    -### Web Site
-    -### Syllabus
-    -### Canvas Page
+    - ### Web Site
+    - ### Syllabus
+    - ### Canvas Page
 - ## Launching DataScience Hub
 - ## Homework, Setting Partners
 - ## Introduction to Shell commands
