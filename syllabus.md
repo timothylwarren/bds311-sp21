@@ -10,10 +10,11 @@ tim.warren AT oregonstate.edu
 
 ### Course Information
 
-- Class Meetings: Tuesday/Thursday 2-3:20
-- Office Hours/Lab: Friday (Time TBD)
+- Class Meetings: Tuesday/Thursday 2-3:20pm
+- Office Hours/Lab: Friday, 3-4pm
 - Course Web site (Weekly calendar) <https://timothylwarren.github.io/bds311/>
 - Canvas site (Problem sets) <https://canvas.oregonstate.edu/courses/1819463>
+
 
 
 ### Course Description
