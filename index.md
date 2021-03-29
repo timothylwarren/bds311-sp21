@@ -48,6 +48,6 @@ tim.warren AT oregonstate.edu
 |     |    |     |      |
 | Week 9 <br /> 05/25, 05/27    | Special Topic: Analysis of emerging data from the Covid-19 pandemic|                                                   | Homework 9 <br/> Due Tue 6/01|
 |     |    |     |      |
-| Week 10 <br /> 06/01, 06/03    | Synthesis, Case Studies of Data Science in Biology  |                                                   | Final Problem Set<br/> Due Tue 6/08|
+| Week 10 <br /> 06/01, 06/03    | Synthesis, Case studies of data science in biology  |                                                   | Final Problem Set<br/> Due Tue 6/08|
 
 
