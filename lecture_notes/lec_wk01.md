@@ -16,4 +16,15 @@ title: Week 1 Lectures
 - ### Launching DataScience Hub
 - ### Homework, Setting Partners
 - ### Introduction to Shell commands
+
+
+# Lecture 2, 4.01.21
+
+- ### Python on the Jupyter Notebook
+    - Assignment
+    - Indexing
+    - Importing libraries
+
+- ### https://datacarpentry.org/python-ecology-lesson/02-starting-with-data/index.html
+
     
