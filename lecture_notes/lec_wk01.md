@@ -20,11 +20,15 @@ title: Week 1 Lectures
 
 # Lecture 2, 4.01.21
 
-- ### Python on the Jupyter Notebook
-    - Assignment
-    - Indexing
-    - Importing libraries
+- ### Introductions, logistics 
 
-- ### https://datacarpentry.org/python-ecology-lesson/02-starting-with-data/index.html
+- ### Shell Commands (20 min)
+    - pwd, ls, --help, man, mkdir, mv, cd, cp, cp -r, rm
+
+- ### Variable assignments, Indexing in Python (15 min)
+    - [my notes](https://swcarpentry.github.io/python-novice-gapminder/02-variables/index.html)
+
+- ### Working with tabular data using Pandas Package (30 min)
+    - [my notes](https://datacarpentry.org/python-ecology-lesson/02-starting-with-data/index.html)
 
     
