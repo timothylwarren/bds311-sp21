@@ -17,18 +17,18 @@ title: Week 1 Lectures
 - ### Homework, Setting Partners
 - ### Introduction to Shell commands
 
-
+<br><br>
 # Lecture 2, 4.01.21
 
 - ### Introductions, logistics 
 
 - ### Shell Commands (20 min)
-    - pwd, ls, --help, man, mkdir, mv, cd, cp, cp -r, rm
+    - ### pwd, ls, --help, man, mkdir, mv, cd, cp, cp -r, rm
 
 - ### Variable assignments, Indexing in Python (15 min)
-    - [my notes](https://swcarpentry.github.io/python-novice-gapminder/02-variables/index.html)
+    - ### [my notes](https://swcarpentry.github.io/python-novice-gapminder/02-variables/index.html)
 
 - ### Working with tabular data using Pandas Package (30 min)
-    - [my notes](https://datacarpentry.org/python-ecology-lesson/02-starting-with-data/index.html)
+    - ### [my notes](https://datacarpentry.org/python-ecology-lesson/02-starting-with-data/index.html)
 
     
