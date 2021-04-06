@@ -8,8 +8,8 @@ title: Week 2 Lectures
 - ### Homework 1 (due 4.6) Homework 2 (due 4.13) 
 - ### Lists, Dictionaries, and Numpy arrays
 1. Creating and appending data to a list
-2. Dictionaries, Converting a dictionary to a Pandas DataFrame
-3. Numpy arrays, np.arange, and array arithmetic (np.diff, np.cumsum, np.mean...)
+2. Dictionaries; Converting dict to a Pandas DataFrame
+3. Numpy arrays, `np.arange`, and array arithmetic (`np.diff`, `np.cumsum`, `np.mean`...)
 4. Lists of lists, multidimensional arrays
 
 - ### Repeating with for Loops
