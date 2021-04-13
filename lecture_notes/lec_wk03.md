@@ -5,11 +5,11 @@ title: Week 2 Lectures
 
 # Lectures 5 and 6, 4.13.21, 4.15.21
 
-## Lecture 5 
+## Lecture 5, 4.13.21 
 
 - ### Discussion of Homework 2 (due 4.13)
     1. review of creating a dataframe in Pandas.
-    2. using `&`,`|` to select subset of a dataframe according to logical codidtion 
+    2. using `&`,`|` to select subset of a dataframe  
 
 - ### Theory of Data Visualization
     1. What is it? Why do it?
@@ -17,14 +17,13 @@ title: Week 2 Lectures
 
 - ### Matplotlib as a useful, versatile Python package for plotting
     1. [Examples with Source Code](https://matplotlib.org/stable/gallery/index.html)
-    2. 'Inflammation' data set as tool to review:
-        -defining subplots, linewidth, color, labels, ticks, exporting graphics
-        -scatter, histogram, heat map
+    2. 'Inflammation' data for subplots, linewidth, color, labels, ticks, exporting graphics
+    3. Scatter plots, histograms, heat maps
 
 
 ## Lecture 6
 
-### Aggregating data in Pandas dataframe `aggby`
+### Combining data in Pandas dataframe `aggby`
 
 ### Replacing values in Pandas dataframe
 
