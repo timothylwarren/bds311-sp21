@@ -21,13 +21,19 @@ title: Week 3 Lectures
     3. Scatter plots, histograms, heat maps
 
 
-## Lecture 6 4.15.21
+## Lecture 6, 4.15.21
 
 ### Visualizing data with matplotlib
+    #### (Inflammation data set)
+    -Using inflammation data
+    -adjusting figure size, labels, colors, spines; saving figures
+    -histograms, scatter, heat map
+### Replacing values in Pandas dataframe
+    #### (Surveys data set)
+    -df.loc to make direct A->B replacement
+    -`replace` method to make a series of replacements
+### Combining data in Pandas dataframe `aggby`
+    #### (Surveys data set)
 
 ### Time-series data in Pandas
-
-### Combining data in Pandas dataframe `aggby`
-
-### Replacing values in Pandas dataframe
-
+    #### (Bikesharing data set from HW03)
