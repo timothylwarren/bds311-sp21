@@ -34,7 +34,8 @@ tim.warren AT oregonstate.edu
 |        |                |         |            |
 | Week 2 <br /> 04/06, 04/08    | Analyzing Tabular Data with Pandas  |[Lecture Notes](./lecture_notes/lec_wk02.md)<br> [Lists](https://swcarpentry.github.io/python-novice-gapminder/11-lists/index.html)<br>[Numpy arrays <br> (Inferential Thinking Chap. 5)](https://inferentialthinking.com/chapters/05/Sequences.html)<br>[Loops and Functions in Pandas](https://datacarpentry.org/python-ecology-lesson/06-loops-and-functions/)                                      | HW 2 <br/> Due Tue 04/13 |
 |     |    |     |      |
-| Week 3 <br /> 04/13, 04/15    | Visualizing Biological Data |                                                   | HW 3 <br/> Due Tue 04/20|
+| Week 3 <br /> 04/13, 04/15    | Visualizing Biological Data |[Lecture Notes](./lecture_notes/lec_wk03.md)<br>[matplotlib reference page](https://matplotlib.org/stable/tutorials/index.html#tutorials)<br>
+[Edward Tufte home page](https://www.edwardtufte.com/tufte/)<br>  [Essential Pandas Reference]https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)                                                 | HW 3 <br/> Due Weds 04/21|
 |     |    |     |      |
 | Week 4 <br /> 04/20, 04/22    | Random processes: Description and simulation  |                                                   | HW 4 <br/> Due Tue 04/27|
 |     |    |     |      |
