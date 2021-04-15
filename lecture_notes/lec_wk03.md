@@ -23,13 +23,16 @@ title: Week 3 Lectures
 
 ## Lecture 6, 4.15.21
 
-- ### Visualizing data with matplotlib *Inflammation data *
-    1. Using inflammation data
+- ### Visualizing data with matplotlib 
+    *inflammation data*
     2. adjusting figure size, labels, colors, spines; saving figures
     3. histograms, scatter, heat map
-- ### Replacing values in Pandas dataframe *Surveys data*
+- ### Replacing values in Pandas dataframe 
+    *Surveys*
     1. df.loc to make direct A->B replacement
     2. `replace` method to make a series of replacements
-- ### Combining data in Pandas dataframe `aggby` *Surveys data*
+- ### Combining data in Pandas dataframe `aggby` 
+    *Surveys*
 
-- ### Time-series data in Pandas *Bikesharing data set from HW03*
+- ### Time-series data in Pandas 
+    *Bikesharing data set from HW03*
