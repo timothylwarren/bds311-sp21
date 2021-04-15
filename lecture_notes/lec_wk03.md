@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 2 Lectures
+title: Week 3 Lectures
 ---
 
 # Lectures 5 and 6, 4.13.21, 4.15.21
@@ -21,7 +21,11 @@ title: Week 2 Lectures
     3. Scatter plots, histograms, heat maps
 
 
-## Lecture 6
+## Lecture 6 4.15.21
+
+### Visualizing data with matplotlib
+
+### Time-series data in Pandas
 
 ### Combining data in Pandas dataframe `aggby`
 
