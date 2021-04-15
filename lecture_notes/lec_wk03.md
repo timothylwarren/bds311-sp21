@@ -16,7 +16,7 @@ title: Week 3 Lectures
     2. Best practices 
 
 ### Matplotlib as a useful, versatile Python package for plotting
-    1. [Examples with Source Code](https://matplotlib.org/stable/gallery/index.html)
+    [Examples with Source Code](https://matplotlib.org/stable/gallery/index.html)
     2. 'Inflammation' data for subplots, linewidth, color, labels, ticks, exporting graphics
     3. Scatter plots, histograms, heat maps
 
