@@ -3,7 +3,7 @@ layout: page
 title: Week 4 Lectures
 ---
 
-# Lectures 7 and 8, 4.20.21, 4.22.21
+## Lectures 7 and 8, 4.20.21, 4.22.21
 
 ### Lecture 5, 4.13.21 
 
@@ -20,7 +20,7 @@ title: Week 4 Lectures
 - **What is the chance a once in a lifetime event will happen in your lifetime?**
 
 
-## Lecture 6, 4.20.21
+### Lecture 6, 4.20.21
 - **Simulation as a method to test the hypothesis that observed data corresponds to a particular model?**
     *Is my coin fair?*
     
