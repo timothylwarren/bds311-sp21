@@ -36,8 +36,7 @@ tim.warren AT oregonstate.edu
 |     |    |     |      |
 | Week 3 <br /> 04/13, 04/15    | Visualizing Biological Data |[Lecture Notes](./lecture_notes/lec_wk03.md)<br>[matplotlib reference](https://matplotlib.org/stable/tutorials/index.html#tutorials)<br>[Edward Tufte](https://www.edwardtufte.com/tufte/)<br>  [Essential Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)                                                 | HW 3 <br/> Due Weds 04/21|
 |     |    |     |      |
-| Week 4 <br /> 04/20, 04/22    | Random processes: Description and simulation  |[Lecture Notes](./lecture_notes/lec_wk04.md)<br>[Inferential Thinking: Chapter 9, Randomness](https://inferentialthinking.com/chapters/09/Randomness.html)<br>[Inferential Thinking: Chapter 10, Sampling](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)<br>
-                                                   | HW 4 <br/> Due Tue 04/27|
+| Week 4 <br /> 04/20, 04/22    | Random processes: Description and simulation  |[Lecture Notes](./lecture_notes/lec_wk04.md)<br>[Inferential Thinking: Chapter 9, Randomness](https://inferentialthinking.com/chapters/09/Randomness.html)<br>[Inferential Thinking: Chapter 10, Sampling](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)<br>        | HW 4 <br/> Due Tue 04/27|
                                                    
 |     |    |     |      |
 |  Week 5 <br /> 04/27, 04/29   | Resampling methods for hypothesis testing   |                                                   | HW 5 <br/> Due Tue 05/04|
