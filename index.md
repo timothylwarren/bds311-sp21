@@ -40,6 +40,7 @@ tim.warren AT oregonstate.edu
 <br>[Inferential Thinking: Chapter 9, Randomness](https://inferentialthinking.com/chapters/09/Randomness.html)
 <br>[Inferential Thinking: Chapter 10, Sampling](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)
                                                    | HW 4 <br/> Due Tue 04/27|
+                                                   
 |     |    |     |      |
 |  Week 5 <br /> 04/27, 04/29   | Resampling methods for hypothesis testing   |                                                   | HW 5 <br/> Due Tue 05/04|
 |     |    |     |      |
