@@ -30,8 +30,8 @@ title: Week 4 Lectures
     *Does an observed photoreceptor distribution in a new species adhere to the same random model in other species?
     
  - **Links to some topics that I may discuss**
-        - [Poisson distribution](https://en.wikipedia.org/wiki/Poisson_distribution)
-        - R7 pale vs yellow photoreceptor types)<br>
+        - [Poisson distribution](https://en.wikipedia.org/wiki/Poisson_distribution)<br>
+        - R7 pale vs yellow photoreceptor types<br>
             [review article](https://www.sciencedirect.com/science/article/pii/S0960982205013151)<br>
             [popular science summary](https://www.sciencedaily.com/releases/2006/03/060312205905.htm)<br>
             [research article](https://www.nature.com/articles/nature04615)
