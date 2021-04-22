@@ -21,6 +21,7 @@ title: Week 4 Lectures
 
 
 ### Lecture 8, 4.22.21
+- Links to Inferential Thinking text [Chapter 9](https://inferentialthinking.com/chapters/09/Randomness.html)
 
 - **Modeling a random process: What is the chance a once in a lifetime event will happen in your lifetime?**
     Comparison of simulation-based method and exact distribution
