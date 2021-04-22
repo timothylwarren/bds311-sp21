@@ -31,7 +31,7 @@ title: Week 4 Lectures
     
 - **Testing whether experimentally observed data adheres to a specific random process**<br>
     *Is my coin fair?*<br>
-    *Does an observed photoreceptor distribution in a new species adhere to the same random model in other species?*
+    *Does an observed photoreceptor distribution in a new species adhere to the same random model already reported in previously known species?*
     
  - **Links to some topics that I may discuss** <br>
         -  [Poisson distribution](https://en.wikipedia.org/wiki/Poisson_distribution)<br>
