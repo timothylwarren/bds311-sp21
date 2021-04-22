@@ -21,7 +21,7 @@ title: Week 4 Lectures
 
 
 ### Lecture 8, 4.22.21
-- Discussion of homework and mid-term assessment
+- Discussion of homework and mid-term course evaluation
 - [Inferential Thinking textbook](https://inferentialthinking.com/chapters/09/Randomness.html)
 
 - **Modeling a random process**<br>
