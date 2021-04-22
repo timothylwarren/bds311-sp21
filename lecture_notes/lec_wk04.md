@@ -31,9 +31,9 @@ title: Week 4 Lectures
     
  - **Links to some topics that I may discuss**
  - [Poisson distribution](https://en.wikipedia.org/wiki/Poisson_distribution)
- - R7 pale vs yellow photoreceptor types)
-        [review article](https://www.sciencedirect.com/science/article/pii/S0960982205013151)
-        [popular science summary](https://www.sciencedaily.com/releases/2006/03/060312205905.htm)
+ - R7 pale vs yellow photoreceptor types)<br>
+        [review article](https://www.sciencedirect.com/science/article/pii/S0960982205013151)<br>
+        [popular science summary](https://www.sciencedaily.com/releases/2006/03/060312205905.htm)<br>
         [research article](https://www.nature.com/articles/nature04615)
         
 
