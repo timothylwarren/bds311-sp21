@@ -29,7 +29,7 @@ title: Week 4 Lectures
     *Is my coin fair?*
     *Does an observed photoreceptor distribution in a new species adhere to the same random model in other species?
     
- - **Links to some topics that I may discuss**
+ - **Links to some topics that I may discuss** <br>
         -  [Poisson distribution](https://en.wikipedia.org/wiki/Poisson_distribution)<br>
         - R7 pale vs yellow photoreceptor types<br>
             [review article](https://www.sciencedirect.com/science/article/pii/S0960982205013151)<br>
