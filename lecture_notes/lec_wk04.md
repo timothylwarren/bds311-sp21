@@ -25,7 +25,7 @@ title: Week 4 Lectures
 - **Modeling a random process: What is the chance a once in a lifetime event will happen in your lifetime?**
     Comparison of simulation-based method and exact distribution
     
-- **Testing whether experimentally observed data adheres to a specific random process**
+- **Testing whether experimentally observed data adheres to a specific random process**<br>
     *Is my coin fair?*
     *Does an observed photoreceptor distribution in a new species adhere to the same random model in other species?
     
