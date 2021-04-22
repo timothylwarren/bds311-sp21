@@ -24,7 +24,7 @@ title: Week 4 Lectures
 - Discussion of homework
 - [Inferential Thinking textbook](https://inferentialthinking.com/chapters/09/Randomness.html)
 
-- **Modeling a random process<br>
+- **Modeling a random process**<br>
     *Review coin flipping problem from end of last class*<br>
     *What is the chance a once in a lifetime event will happen in your lifetime?*
     Comparison of simulation-based method and exact distribution
