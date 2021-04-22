@@ -26,7 +26,7 @@ title: Week 4 Lectures
     Comparison of simulation-based method and exact distribution
     
 - **Testing whether experimentally observed data adheres to a specific random process**<br>
-    *Is my coin fair?*
+    *Is my coin fair?*<br>
     *Does an observed photoreceptor distribution in a new species adhere to the same random model in other species?*
     
  - **Links to some topics that I may discuss** <br>
