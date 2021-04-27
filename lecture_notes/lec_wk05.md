@@ -18,10 +18,11 @@ Updates to syllabus for remainder of course
 
 - Summary Procedure for Hypothesis Testing 
 
-   1. Choose a test statistic (e.g. the predicted mean outcome according to model/theory)
-   2. Simulate one version of the observed experiment, recording test statistic.
-   3. Repeat simulation many times, tracking the test statistic each time.
-   4. Compare the distribution of simulated test statistics with observed value.
+   1. Choose a test statistic (e.g. the mean of the data)
+   2. Identify the null random model.
+   3. Simulate one new instance of the observed experiment, where outcome is governed by random model. Record test statistic.
+   4. Repeat simulation many times, recording the accumulated test statistics.
+   5. Compare the distribution of simulated test statistics with observed value.
 
 - Mendel's Pea Experiment (Breakout Rooms).
 
@@ -35,10 +36,10 @@ Updates to syllabus for remainder of course
 [Permutation visual explanation](https://www.jwilber.me/permutationtest/)
 
 - Summary Procedure
-    1. Choose a test statistic (typically the difference in means between two categories)
-    2. Shuffle the labels of the original sample and computer simulated test statistic 
-    3. Repeat the shuffling (permutation) many times.
-    4. Compare distributions of shuffled test statistics with observed value.
+    1. Choose a test statistic (often the difference in means between two grooupd)
+    2. Shuffle the labels of the original sample and compute the test statistic. 
+    3. Repeat the shuffling (permutation) many times, recording test statistics.
+    4. Compare distributions of test statistics from permuted experiments with observed value.
 
 
 
