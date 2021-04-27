@@ -3,12 +3,12 @@ layout: page
 title: Week 5 Lectures
 ---
 
-## Lectures 9 and 10, 4.27.21, 4.29.21
+### Lectures 9 and 10, 4.27.21, 4.29.21
 
-### Lectures 5 and 7, 4.27.21 
+#### Lecture 9
 
 - **Midterm Course Evaluation Discussion**<br>
-  **General Plans for second half of the course**
+  **Updated syllabus for second half of the course**
 
 - **Many processes, in biology, in consumer behavior  are modeled as having a component of randomness. Evaluating the model requires simulate random process. Computers are good at - repeating random process again and again.
 
