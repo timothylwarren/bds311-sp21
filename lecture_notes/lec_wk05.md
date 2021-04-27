@@ -5,29 +5,25 @@ title: Week 5 Lectures
 
 ### Lectures 9 and 10, 4.27.21, 4.29.21
 
-#### Lecture 9
+### Lecture 9
 
-- **Midterm Course Evaluation Discussion**<br>
+**Midterm Course Evaluation Discussion**<br>
   **Updated syllabus for second half of the course**
 
-- **Many processes, in biology, in consumer behavior  are modeled as having a component of randomness. Evaluating the model requires simulate random process. Computers are good at - repeating random process again and again.
+- #### Random processes 
 
-Last week, we looked at describing random processes, and the end of lecture, and in third problem of homework, we are moving to testing a particular
-random model corresponds to the data.
+- Review of random processes: Motivation and simulation.
+ 
+- Hypothesis Testing: Does observed data support underlying random model? <br> ([Chapter 11, Inferential Thinking](https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html); HW04, Problem 3)
 
-
-Continuing Hypothesis Testing (Chapter 11, Inferential Thinking; HW04, Problem 3)
-
-
-- ** Working on Mendel's Pea Experiment in Breakout Rooms.
-
-
-Summary Procedure for Hypothesis Testing - Does observed data support hypothesis?
+**Summary Procedure for Hypothesis Testing** 
 
 1. Choose a test statistic (e.g. the predicted mean outcome according to model/theory)
 2. Simulate one version of the observed experiment, recording test statistic.
 3. Repeat simulation many times, tracking the test statistic each time.
 4. Compare the distribution of simulated test statistics with observed statistics.
+
+- Mendel's Pea Experiment (Breakout Rooms).
 
 
 
