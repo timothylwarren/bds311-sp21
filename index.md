@@ -44,7 +44,6 @@ tim.warren AT oregonstate.edu
 |     |    |     |      |
 | Week 7 <br /> 05/11, 05/13    | Version control and reproducibility with Git |                                                   | HW 7<br/> Due Th 05/20|
 |     |    |     |      |
-
 | Week 8 <br /> 05/18, 05/20    | Testing and predicting relationships in data: <br />regression and correlation  |              | HW 8<br/> Due Th 05/27|
 |     |    |     |      |
 
