@@ -36,18 +36,20 @@ tim.warren AT oregonstate.edu
 |     |    |     |      |
 | Week 3 <br /> 04/13, 04/15    | Visualizing Biological Data |[Lecture Notes](./lecture_notes/lec_wk03.md)<br>[matplotlib reference](https://matplotlib.org/stable/tutorials/index.html#tutorials)<br>[Edward Tufte](https://www.edwardtufte.com/tufte/)<br>  [Essential Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)                                                 | HW 3 <br/> Due Weds 04/21|
 |     |    |     |      |
-| Week 4 <br /> 04/20, 04/22    | Random processes: Description and simulation  |[Lecture Notes](./lecture_notes/lec_wk04.md)<br>[Inferential Thinking: Chapter 9, Randomness](https://inferentialthinking.com/chapters/09/Randomness.html)<br>[Inferential Thinking: Chapter 10, Sampling](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)<br>        | HW 4 <br/> Due Tue 04/27|
+| Week 4 <br /> 04/20, 04/22    | Random processes: Description and simulation  |[Lecture Notes](./lecture_notes/lec_wk04.md)<br>[Inferential Thinking: Chapter 9, Randomness](https://inferentialthinking.com/chapters/09/Randomness.html)<br>[Inferential Thinking: Chapter 10, Sampling](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)<br>        | HW 4 <br/> Due Th 04/29|
 |     |    |     |      |
-|  Week 5 <br /> 04/27, 04/29   | Resampling methods for hypothesis testing   |                                                   | HW 5 <br/> Due Tue 05/04|
+|  Week 5 <br /> 04/27, 04/29   | Resampling methods for hypothesis testing   |[Lecture Notes](./lecture_notes/lec_wk05.md)<br>[Inferential Thinking: Chapter 11: Testing Hypotheses](https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html)<br>[Chapter 12: Comparing Two Samples](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)<br>[Illustrated permutation test](https://www.jwilber.me/permutationtest/)                                                   | HW 5 <br/> Due Th 05/06|
 |     |    |     |      |
-| Week 6 <br /> 05/04, 05/06    | Estimating data set parameters via the bootstrap   |                                                   | HW 6 <br/> Due Tue 05/11|
+| Week 6 <br /> 05/04, 05/06    | Estimating data set parameters via the bootstrap   |                                                   | HW 6 <br/> Due Th 05/13|
 |     |    |     |      |
-| Week 7 <br /> 05/11, 05/13    | Testing and predicting relationships in data: <br />regression and correlation  |              | HW 7<br/> Due Tue 05/18|
+| Week 7 <br /> 05/11, 05/13    | Version control and reproducibility with Git |                                                   | HW 7<br/> Due Th 05/20|
 |     |    |     |      |
-| Week 8 <br /> 05/18, 05/20    | Version control and reproducibility with Git |                                                   | HW 8<br/> Due Tue 05/25|
+
+| Week 8 <br /> 05/18, 05/20    | Testing and predicting relationships in data: <br />regression and correlation  |              | HW 8<br/> Due Th 05/27|
 |     |    |     |      |
-| Week 9 <br /> 05/25, 05/27    | Special Topic: Analysis of emerging data from the Covid-19 pandemic|                                                   | HW 9 <br/> Due Tue 6/01|
+
+| Week 9 <br /> 05/25, 05/27    | Understanding and implementing algorithms in biology|                                                   | HW 9 <br/> Due Tue 6/03|
 |     |    |     |      |
-| Week 10 <br /> 06/01, 06/03    | Synthesis, Case studies of data science in biology  |                                                   | Final HW<br/> Due Tue 6/08|
+| Week 10 <br /> 06/01, 06/03    | Synthesis, future opportunities. Guest lecture by a data scientist working in industry  |                                                   | |
 
 
