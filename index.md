@@ -46,7 +46,6 @@ tim.warren AT oregonstate.edu
 |     |    |     |      |
 | Week 8 <br /> 05/18, 05/20    | Testing and predicting relationships in data: <br />regression and correlation  |              | HW 8<br/> Due Th 05/27|
 |     |    |     |      |
-
 | Week 9 <br /> 05/25, 05/27    | Understanding and implementing algorithms in biology|                                                   | HW 9 <br/> Due Tue 6/03|
 |     |    |     |      |
 | Week 10 <br /> 06/01, 06/03    | Synthesis, future opportunities. Guest lecture by a data scientist working in industry  |                                                   | |
