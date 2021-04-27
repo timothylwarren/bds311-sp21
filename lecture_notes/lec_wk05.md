@@ -16,7 +16,7 @@ Updates to syllabus for remainder of course
  
 - Hypothesis Testing: Does observed data support underlying random model? <br> ([Chapter 11, Inferential Thinking](https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html); HW04, Problem 3)
 
-**Summary Procedure for Hypothesis Testing** 
+- **Summary Procedure for Hypothesis Testing** 
 
 1. Choose a test statistic (e.g. the predicted mean outcome according to model/theory)
 2. Simulate one version of the observed experiment, recording test statistic.
