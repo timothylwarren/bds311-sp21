@@ -18,10 +18,10 @@ Updates to syllabus for remainder of course
 
 - Summary Procedure for Hypothesis Testing 
 
-   -- Choose a test statistic (e.g. the predicted mean outcome according to model/theory)
-   -- Simulate one version of the observed experiment, recording test statistic.
-   -- Repeat simulation many times, tracking the test statistic each time.
-   -- Compare the distribution of simulated test statistics with observed statistics.
+   1. Choose a test statistic (e.g. the predicted mean outcome according to model/theory)
+   2. Simulate one version of the observed experiment, recording test statistic.
+   3. Repeat simulation many times, tracking the test statistic each time.
+   4. Compare the distribution of simulated test statistics with observed statistics.
 
 - Mendel's Pea Experiment (Breakout Rooms).
 
