@@ -21,47 +21,31 @@ Updates to syllabus for remainder of course
    1. Choose a test statistic (e.g. the predicted mean outcome according to model/theory)
    2. Simulate one version of the observed experiment, recording test statistic.
    3. Repeat simulation many times, tracking the test statistic each time.
-   4. Compare the distribution of simulated test statistics with observed statistics.
+   4. Compare the distribution of simulated test statistics with observed value.
 
 - Mendel's Pea Experiment (Breakout Rooms).
 
 
 
-#### Permutation Testing
+#### A/B testing via permutation?
 
-Permutation methods for performing an A/B comparison. What is the probability that two observed sets of data would come from the same underlying distribution?
-Chapter 12 - Inferential Thinking
+What is the probability that two observed sets of data are different? To address this, we test the null hypothesis, that they come from the same underlying distribution.
 
-https://www.jwilber.me/permutationtest/ 
+-[Chapter 12 - Inferential Thinking](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)<br>
+[Superb visual explanation](https://www.jwilber.me/permutationtest/)
 
-
-1. Choose a test statistic (typically the difference in means between two categories)
-
-2. Shuffle the labels of the original sample and computer  simulated test statistic
-
-2. Repeat the shuffling (permutation) many times.
-
-4. Compare distributions of shuffled imulated test statistics with the observed test statistics.
+- Summary Procedure
+    1. Choose a test statistic (typically the difference in means between two categories)
+    2. Shuffle the labels of the original sample and computer simulated test statistic 
+    3. Repeat the shuffling (permutation) many times.
+    4. Compare distributions of shuffled test statistics with observed value.
 
 
 
 
 
  
-
-- **Why is modeling random processes important in Biology?**
     
 
-- **Two approaches to modeling random processes**
-    1. Exact calculation of probabilities via theory
-    2. Experimental determination of probabilties via repeated simulation
-
-- **What is the chance a once in a lifetime event will happen in your lifetime?**
-
-
-### Lecture 6, 4.20.21
-- **Simulation as a method to test the hypothesis that observed data corresponds to a particular model?**
-    *Is my coin fair?*
-    
 
 
