@@ -7,10 +7,10 @@ title: Week 5 Lectures
 
 ### Lecture 9
 
-**Midterm Course Evaluation Discussion**<br>
-  **Updated syllabus for second half of the course**
+Discussion of Midterm Course Evaluation <br>
+Updates to syllabus for remainder of course
 
-- #### Random processes 
+#### Random processes 
 
 - Review of random processes: Motivation and simulation.
  
