@@ -31,7 +31,7 @@ Updates to syllabus for remainder of course
 
 - What is the probability that two observed sets of data are different? To address this, we test the null hypothesis, that they come from the same underlying distribution.
 
-- **Resources:**[Chapter 12 - Inferential Thinking](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)<br>
+- **Resources:**<br>[Chapter 12 - Inferential Thinking](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)<br>
 [Permutation visual explanation](https://www.jwilber.me/permutationtest/)
 
 - Summary Procedure
