@@ -17,9 +17,8 @@ Updates to syllabus for remainder of course
 - Hypothesis Testing: Does observed data support underlying random model? <br> ([Chapter 11, Inferential Thinking](https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html); HW04, Problem 3)
 
 - Summary Procedure for Hypothesis Testing 
-
-   1. Choose a test statistic (e.g. the mean of the data)
-   2. Identify the null random model.
+   1. Identify the null model.
+   2. Choose a test statistic (e.g. the absolute deviation of the observed mean from predicted mean)
    3. Simulate one new instance of the observed experiment, where outcome is governed by random model. Record test statistic.
    4. Repeat simulation many times, recording the accumulated test statistics.
    5. Compare the distribution of simulated test statistics with observed value.
@@ -36,7 +35,7 @@ Updates to syllabus for remainder of course
 [Permutation visual explanation](https://www.jwilber.me/permutationtest/)
 
 - Summary Procedure
-    1. Choose a test statistic (often the difference in means between two grooupd)
+    1. Choose a test statistic (often the difference in means between two groups)
     2. Shuffle the labels of the original sample and compute the test statistic. 
     3. Repeat the shuffling (permutation) many times, recording test statistics.
     4. Compare distributions of test statistics from permuted experiments with observed value.
