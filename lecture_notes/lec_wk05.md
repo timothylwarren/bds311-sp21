@@ -27,11 +27,11 @@ Updates to syllabus for remainder of course
 
 
 
-#### A/B testing via permutation?
+#### A/B testing via permutation
 
-What is the probability that two observed sets of data are different? To address this, we test the null hypothesis, that they come from the same underlying distribution.
+- What is the probability that two observed sets of data are different? To address this, we test the null hypothesis, that they come from the same underlying distribution.
 
--[Chapter 12 - Inferential Thinking](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)<br>
+- **Resources:**[Chapter 12 - Inferential Thinking](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)<br>
 [Superb visual explanation](https://www.jwilber.me/permutationtest/)
 
 - Summary Procedure
