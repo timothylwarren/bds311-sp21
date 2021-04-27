@@ -12,7 +12,7 @@ Updates to syllabus for remainder of course
 
 #### Random processes 
 
-- Review of random processes: Motivation and simulation.
+- Review of motivation and simulation-based approach.
  
 - Hypothesis Testing: Does observed data support underlying random model? <br> ([Chapter 11, Inferential Thinking](https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html); HW04, Problem 3)
 
