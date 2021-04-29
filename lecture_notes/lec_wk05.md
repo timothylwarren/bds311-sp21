@@ -25,6 +25,7 @@ Updates to syllabus for remainder of course
 
 - Mendel's Pea Experiment (Breakout Rooms).
 
+### Lecture 10
 
 
 #### A/B testing via permutation
