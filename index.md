@@ -48,6 +48,6 @@ tim.warren AT oregonstate.edu
 |     |    |     |      |
 | Week 9 <br /> 05/25, 05/27    | Introduction to Machine Learning with scikit-learn: Clustering algorithms|                                                   | HW 9 <br/> Due Th 6/03|
 |     |    |     |      |
-| Week 10 <br /> 06/01, 06/03    | Guest lecture (June 1) by Peter Weir Ph.D., Data Science Manager, Yelp.; Synthesis, Future Opportunities   |                                                   | [Peter's github page](https://github.com/ptweir)|
+| Week 10 <br /> 06/01, 06/03    | Guest lecture (June 1) by Peter Weir Ph.D., Data Science Manager, Yelp.; Synthesis, Future Opportunities   |   Peter Weir's github page](https://github.com/ptweir)                                                | |
 
 
