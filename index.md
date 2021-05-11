@@ -40,14 +40,15 @@ tim.warren AT oregonstate.edu
 |     |    |     |      |
 |  Week 5 <br /> 04/27, 04/29   | Resampling methods for hypothesis testing   |[Lecture Notes](./lecture_notes/lec_wk05.md)<br>[Inferential Thinking: Chapter 11: Testing Hypotheses](https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html)<br>[Chapter 12: Comparing Two Samples](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)<br>[Illustrated permutation test](https://www.jwilber.me/permutationtest/)                                                   | HW 5 <br/> Due Th 05/06|
 |     |    |     |      |
-| Week 6 <br /> 05/04, 05/06    | Estimating data set parameters via the bootstrap   |                                                   | HW 6 <br/> Due Th 05/13|
+| Week 6 <br /> 05/04, 05/06    | Estimating data set parameters via the bootstrap   | [Inferential Thinking: Chapter 13: Testing Hypotheses](https://inferentialthinking.com/chapters/13/Estimation.html)<br>[Bootstrap schematic](https://online.stat.psu.edu/stat555/node/119/)                                       | HW 6 <br/> Due Th 05/13|
+
 |     |    |     |      |
-| Week 7 <br /> 05/11, 05/13    | Version control and reproducibility with Git |                                                   | HW 7<br/> Due Th 05/20|
+| Week 7 <br /> 05/11, 05/13    | Version control and reproducibility with Git | [Git cheat sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)<br> [Carpentries git lesson](https://swcarpentry.github.io/git-novice/) <br> [Git references materials, exercises](https://open-source-for-researchers.github.io/open-source-workshop/)                                                 | HW 7 <br/> Due Th 05/20|
 |     |    |     |      |
 | Week 8 <br /> 05/18, 05/20    | Testing and predicting relationships in data: <br />regression and correlation  |              | HW 8<br/> Due Th 05/27|
 |     |    |     |      |
-| Week 9 <br /> 05/25, 05/27    | Understanding and implementing algorithms in biology|                                                   | HW 9 <br/> Due Th 6/03|
+| Week 9 <br /> 05/25, 05/27    | Introduction to Machine Learning with scikit-learn: Clustering algorithms|                                                   | HW 9 <br/> Due Th 6/03|
 |     |    |     |      |
-| Week 10 <br /> 06/01, 06/03    | Synthesis, future opportunities. Guest lecture by a data scientist working in industry  |                                                   | |
+| Week 10 <br /> 06/01, 06/03    | Guest lecture (June 1) by Peter Weir Ph.D., Data Science Manager, Yelp.; Synthesis, Future Opportunities   |                                                   | [Peter's github page](https://github.com/ptweir)|
 
 
