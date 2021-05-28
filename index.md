@@ -45,8 +45,7 @@ tim.warren AT oregonstate.edu
 | Week 7 <br /> 05/11, 05/13    | Version control and reproducibility with Git | [Git cheat sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)<br> [Carpentries git lesson](https://swcarpentry.github.io/git-novice/) <br> [Git references materials, exercises](https://open-source-for-researchers.github.io/open-source-workshop/) <br>[Remote Repositories](https://docs.github.com/en/github/getting-started-with-github/managing-remote-repositories)                                                | HW 7 <br/> Due Th 05/20|
 |     |    |     |      |
 | Week 8 <br /> 05/18, 05/20    | Testing and predicting relationships in data: <br />regression and correlation  |[Inferential Thinking: Prediction](https://inferentialthinking.com/chapters/15/Prediction.html)
-<br>
-[Inference for Regression](https://inferentialthinking.com/chapters/16/Inference_for_Regression.html)            | HW 8<br/> Due Th 05/27|
+<br> [Inference for Regression](https://inferentialthinking.com/chapters/16/Inference_for_Regression.html)            | HW 8<br/> Due Th 05/27|
 |     |    |     |      |
 | Week 9 <br /> 05/25, 05/27    | Introduction to Machine Learning: Classification via k-nearest neighbors algorithm| [Inferential Thinking: Classification](https://inferentialthinking.com/chapters/17/Classification.html) <br> [Archaeologists vs. Computers](https://www.nytimes.com/2021/05/25/science/archaeologist-neural-network-study.html)                                                      | HW 9 <br/> Due Tu 6/08|
 |     |    |     |      |
