@@ -18,7 +18,7 @@
 |     |    |     |      |
 | Week 8  | Testing and predicting relationships in data|
 |     |    |     |      |
-| Week 9 | Introduction to Machine Learning: Classification via k-nearest neighbors algorithm| 
+| Week 9 | Introduction to Machine Learning <br>Classification via k-nearest neighbors algorithm| 
 |     |    |     |      |
 | Week 10| Guest lecture by Peter Weir, Yelp <br>Synthesis, Future Opportunities   |                                
 
