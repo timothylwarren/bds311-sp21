@@ -48,6 +48,6 @@ tim.warren AT oregonstate.edu
 |     |    |     |      |
 | Week 9 <br /> 05/25, 05/27    | Introduction to Machine Learning: Classification via k-nearest neighbors algorithm| [IT Chap. 17](https://inferentialthinking.com/chapters/17/Classification.html) <br> [Archaeologists vs. Computers](https://www.nytimes.com/2021/05/25/science/archaeologist-neural-network-study.html)                                                      | HW 9 <br/> Due Tu 6/08|
 |     |    |     |      |
-| Week 10 <br /> 06/01, 06/03    | Guest lecture (June 1) by Peter Weir Ph.D., Data Science Manager, Yelp.; Synthesis, Future Opportunities   |   [Peter Weir's github page](https://github.com/ptweir)                                                |  |
+| Week 10 <br /> 06/01, 06/03    | Guest lecture (June 1) by Peter Weir, Yelp.; Synthesis, Future Opportunities   |   [Peter Weir's github page](https://github.com/ptweir)                                                |  |
 
 
