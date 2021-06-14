@@ -28,8 +28,8 @@ tim.warren AT oregonstate.edu
 
 ### Weekly Calendar  
 
-|Date                                  | Topic                  |  Relevant Reading                     | Assignment                                 |
-|:-----------------------------        |:---------------------|:------------------------------------  |:----------------------                      |
+|Date                                  | Topic              |  Relevant Reading                     | Assignment                                 |
+|:-----------------------------        |:-----------------|:------------------------------------  |:----------------------                      |
 | Week 1 <br />03/30, 04/01&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;| Course Goals and Philosophy <br />Python on the Jupyter Notebook &nbsp; &nbsp; &nbsp;| [Jupyter Notebook](https://www.e-education.psu.edu/geog489/node/2204)&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<br>[Unix Shell](https://swcarpentry.github.io/shell-novice/) <br> [Python Examples](https://nbviewer.jupyter.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Python_101.ipynb) &nbsp; &nbsp;  <br> [Lecture notes](./lecture_notes/lec_wk01.md)| HW 1 <br/> Due Tue 04/06 &nbsp; &nbsp; |
 |        |                |         |            |
 | Week 2 <br /> 04/06, 04/08    | Analyzing Tabular Data with Pandas  |[Lecture Notes](./lecture_notes/lec_wk02.md)<br> [IT Chap. 5](https://inferentialthinking.com/chapters/05/Sequences.html)<br>[Loops and Functions](https://datacarpentry.org/python-ecology-lesson/06-loops-and-functions/)                                      | HW 2 <br/> Due Tue 04/13 |
